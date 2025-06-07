@@ -7,9 +7,6 @@
   <a href="https://www.linkedin.com/in/aravindbasava">
     <img src="https://img.shields.io/badge/LinkedIn-Aravind%20Basava-blue?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="https://hashnode.com/@xaravind">
-    <img src="https://img.shields.io/badge/Hashnode-Tech%20Blog-blue?style=flat&logo=hashnode" alt="Hashnode Blog">
-  </a>
 </p>
 
 <p align="left">
