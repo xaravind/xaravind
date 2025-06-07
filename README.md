@@ -24,11 +24,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="30" alt="Ansible"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="Terraform"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="Slack"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="Oracle"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/servicenow.svg" height="30" alt="ServiceNow"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/confluence.svg" height="30" alt="Confluence"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/datadog.svg" height="30" alt="Datadog"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="OracleSQL"/>
+  <img src="https://img.shields.io/badge/-Datadog-632CA6?style=flat&logo=datadog&logoColor=white" alt="Datadog"/>
+  <img src="https://img.shields.io/badge/-Confluence-172B4D?style=flat&logo=confluence&logoColor=white" alt="Confluence"/>
+  <img src="https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white" alt="Slack"/>
+  <img src="https://img.shields.io/badge/-ServiceNow-000000?style=flat&logo=servicenow&logoColor=white" alt="ServiceNow"/>
   <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="Jira"/>
 </p>
 
