@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-* 👨‍💻 I'm Aravind, DevOps Engineer | AWS Certified ☁️
+* 👨‍💻 I'm Aravind, DevOps Engineer 
 * ☁️ AWS DevOps | Terraform | Docker | Kubernetes | Pipelines
 * 🛠️ Love troubleshooting and fixing things
 * ⚡ Turning manual steps into pipelines
