@@ -7,6 +7,9 @@
   <a href="https://www.linkedin.com/in/aravindbasava">
     <img src="https://img.shields.io/badge/LinkedIn-Aravind%20Basava-blue?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
+  <a href="mailto:baravind9293@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-baravind9293@gmail.com-red?style=flat&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 <p align="left">
