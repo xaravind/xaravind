@@ -15,7 +15,6 @@
 * 📚 Always learning. Always optimizing.
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="30" alt="Bitbucket"/>
@@ -26,6 +25,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="Terraform"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="Slack"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="Oracle"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/servicenow.svg" height="30" alt="ServiceNow"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/jira.svg" height="30" alt="Jira"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/confluence.svg" height="30" alt="Confluence"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/datadog.svg" height="30" alt="Datadog"/>
 </p>
 
 
