@@ -23,4 +23,3 @@
 * ⚡ Turning manual steps into pipelines
 * 💬 Open to collaboration, feedback, and cool projects
 * 📚 Always learning. Always optimizing.
-* 📫 How to reach me: baravind9293@gmail.com
