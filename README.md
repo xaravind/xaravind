@@ -37,23 +37,25 @@
 
 
 ## About Me 👋
----
+
 I am a results-driven AWS & DevOps Engineer with over 6 years of experience in cloud automation, infrastructure provisioning, CI/CD pipeline implementation, and container orchestration. I specialize in building scalable and secure DevOps solutions for high-availability applications.
 
 ✅ Proven expertise in AWS, Kubernetes, Docker, Jenkins, Terraform, Ansible, and GitHub Actions
+
 ✅ Strong hands-on experience with CI/CD, Infrastructure as Code (IaC), and automation scripting
+
 ✅ Passionate about reducing deployment time, ensuring system uptime, and improving delivery pipelines
 
-## 🛠️ Technical Skills
----
-Cloud Platforms: AWS 
-CI/CD Tools: Jenkins, GitHub Actions, ArgoCD
-Containerization & Orchestration: Docker, Kubernetes (EKS)
-IaC & Configuration Management: Terraform, Ansible
-Scripting & Automation: Shell Scripting, YAML, Groovy
-Monitoring & Logging: Prometheus, Grafana, Datadog
-Code & Version Control: Git, GitHub
-Build & Quality Tools: Maven, SonarQube, Nexus
-Web/App Servers: Apache Tomcat
-Project Tools: Jira, Confluence, ServiceNow
+##  Technical Skills
+
+- Cloud Platforms: AWS 
+- CI/CD Tools: Jenkins, GitHub Actions, ArgoCD
+- Containerization & Orchestration: Docker, Kubernetes (EKS)
+- IaC & Configuration Management: Terraform, Ansible
+- Scripting & Automation: Shell Scripting, YAML, Groovy
+- Monitoring & Logging: Prometheus, Grafana, Datadog
+- Code & Version Control: Git, GitHub
+- Build & Quality Tools: Maven, SonarQube, Nexus
+- Web/App Servers: Apache Tomcat
+- Project Tools: Jira, Confluence, ServiceNow
 
